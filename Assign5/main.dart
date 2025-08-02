@@ -1,8 +1,4 @@
 void main() {
-  // List Method
-
-  // Map Method
-
   //Q.1: Create a list of names and print all names using list.
 
   List nameList = [
